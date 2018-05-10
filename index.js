@@ -1,7 +1,7 @@
 
 
 function testModule() {
-  Math.random().toString(36).substring(7);
+  return Math.random().toString(36).substring(7);
 }
 
 module.exports = testModule;
