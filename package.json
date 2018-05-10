@@ -1,0 +1,11 @@
+{
+  "name": "first-test-np",
+  "version": "0.1.0",
+  "description": "just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pxq",
+  "license": "MIT"
+}
