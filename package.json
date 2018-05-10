@@ -1,6 +1,6 @@
 {
   "name": "first-test-np",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "just a test",
   "main": "index.js",
   "scripts": {
